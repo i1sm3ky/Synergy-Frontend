@@ -129,13 +129,10 @@ This project is licensed under the MIT License.
 - [Figma Designs (UI)](https://www.figma.com/design/WHmI7llLPskPpJhvIpmkhg/Deloitte-Synergy-AI?node-id=0-1&t=18b3wthUYUvexqVD-1)
 - [FigJam (Architecture \& DB)](https://www.figma.com/board/qqHRhxLyaL9NvPzvuYcgAm/Deloitte-System-Architecture?node-id=0-1&t=S5dgXEG3HDPZMFZB-1)
 
-## 🧭 System Architecture Overview
+![Deloitte System Flow](https://raw.githubusercontent.com/i1sm3ky/Synergy-Frontend/main/public/deloitte-flow.png)
 
-![Deloitte System Flow](/deloitte-flow.png)
+![Database Schema](https://raw.githubusercontent.com/i1sm3ky/Synergy-Frontend/main/public/db-schema.png)
 
-## 🗄️ Database Schema
-
-![Database Schema](/db-schema.png)
 
 *For technical support or queries, please open an issue on GitHub.*
 
